@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: a7c5c1478d011364883c9fe70c8659e0
+timeCreated: 1504355746
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Alas Kaki_001
+    100002: Alas Kaki_002
+    100004: Alas Kaki_003
+    100006: Alas Kaki_004
+    100008: "Pole \xD8 4 cm_001"
+    100010: "Pole \xD8 4 cm_002"
+    100012: "Pole \xD8 4 cm_003"
+    100014: "Pole \xD8 4 cm_004"
+    100016: "Pole \xD8 4 cm_005"
+    100018: "Pole \xD8 4 cm_006"
+    100020: "Pole \xD8 4 cm_007"
+    100022: "Pole \xD8 4 cm_008"
+    100024: "Pole \xD8 4 cm_009"
+    100026: "Pole \xD8 4 cm_010"
+    100028: "Pole \xD8 4 cm_011"
+    100030: "Pole \xD8 4 cm_012"
+    100032: "Pole \xD8 4 cm_013"
+    100034: "Pole \xD8 4 cm_014"
+    100036: "Pole \xD8 4 cm_015"
+    100038: "Pole \xD8 4 cm_016"
+    100040: "Pole \xD8 4 cm_017"
+    100042: "Pole \xD8 4 cm_018"
+    100044: "Pole \xD8 4 cm_019"
+    100046: "Pole \xD8 4 cm_020"
+    100048: "Pole \xD8 4 cm_021"
+    100050: "Pole \xD8 4 cm_022"
+    100052: "Pole \xD8 4 cm_023"
+    100054: "Pole \xD8 4 cm_024"
+    100056: "Pole \xD8 5 cm_001"
+    100058: "Pole \xD8 5 cm_002"
+    100060: "Pole \xD8 5 cm_003"
+    100062: "Pole \xD8 5 cm_004"
+    100064: "Pole \xD8 5 cm_005"
+    100066: "Pole \xD8 5 cm_006"
+    100068: "Pole \xD8 5 cm_007"
+    100070: "Pole \xD8 5 cm_008"
+    100072: "Pole \xD8 5 cm_009"
+    100074: "Pole \xD8 5 cm_010"
+    100076: "Pole \xD8 5 cm_011"
+    100078: "Pole \xD8 5 cm_012"
+    100080: "Pole \xD8 5 cm_013"
+    100082: //RootNode
+    100084: Tent Cover_001
+    400000: Alas Kaki_001
+    400002: Alas Kaki_002
+    400004: Alas Kaki_003
+    400006: Alas Kaki_004
+    400008: "Pole \xD8 4 cm_001"
+    400010: "Pole \xD8 4 cm_002"
+    400012: "Pole \xD8 4 cm_003"
+    400014: "Pole \xD8 4 cm_004"
+    400016: "Pole \xD8 4 cm_005"
+    400018: "Pole \xD8 4 cm_006"
+    400020: "Pole \xD8 4 cm_007"
+    400022: "Pole \xD8 4 cm_008"
+    400024: "Pole \xD8 4 cm_009"
+    400026: "Pole \xD8 4 cm_010"
+    400028: "Pole \xD8 4 cm_011"
+    400030: "Pole \xD8 4 cm_012"
+    400032: "Pole \xD8 4 cm_013"
+    400034: "Pole \xD8 4 cm_014"
+    400036: "Pole \xD8 4 cm_015"
+    400038: "Pole \xD8 4 cm_016"
+    400040: "Pole \xD8 4 cm_017"
+    400042: "Pole \xD8 4 cm_018"
+    400044: "Pole \xD8 4 cm_019"
+    400046: "Pole \xD8 4 cm_020"
+    400048: "Pole \xD8 4 cm_021"
+    400050: "Pole \xD8 4 cm_022"
+    400052: "Pole \xD8 4 cm_023"
+    400054: "Pole \xD8 4 cm_024"
+    400056: "Pole \xD8 5 cm_001"
+    400058: "Pole \xD8 5 cm_002"
+    400060: "Pole \xD8 5 cm_003"
+    400062: "Pole \xD8 5 cm_004"
+    400064: "Pole \xD8 5 cm_005"
+    400066: "Pole \xD8 5 cm_006"
+    400068: "Pole \xD8 5 cm_007"
+    400070: "Pole \xD8 5 cm_008"
+    400072: "Pole \xD8 5 cm_009"
+    400074: "Pole \xD8 5 cm_010"
+    400076: "Pole \xD8 5 cm_011"
+    400078: "Pole \xD8 5 cm_012"
+    400080: "Pole \xD8 5 cm_013"
+    400082: //RootNode
+    400084: Tent Cover_001
+    2300000: Alas Kaki_001
+    2300002: Alas Kaki_002
+    2300004: Alas Kaki_003
+    2300006: Alas Kaki_004
+    2300008: "Pole \xD8 4 cm_001"
+    2300010: "Pole \xD8 4 cm_002"
+    2300012: "Pole \xD8 4 cm_003"
+    2300014: "Pole \xD8 4 cm_004"
+    2300016: "Pole \xD8 4 cm_005"
+    2300018: "Pole \xD8 4 cm_006"
+    2300020: "Pole \xD8 4 cm_007"
+    2300022: "Pole \xD8 4 cm_008"
+    2300024: "Pole \xD8 4 cm_009"
+    2300026: "Pole \xD8 4 cm_010"
+    2300028: "Pole \xD8 4 cm_011"
+    2300030: "Pole \xD8 4 cm_012"
+    2300032: "Pole \xD8 4 cm_013"
+    2300034: "Pole \xD8 4 cm_014"
+    2300036: "Pole \xD8 4 cm_015"
+    2300038: "Pole \xD8 4 cm_016"
+    2300040: "Pole \xD8 4 cm_017"
+    2300042: "Pole \xD8 4 cm_018"
+    2300044: "Pole \xD8 4 cm_019"
+    2300046: "Pole \xD8 4 cm_020"
+    2300048: "Pole \xD8 4 cm_021"
+    2300050: "Pole \xD8 4 cm_022"
+    2300052: "Pole \xD8 4 cm_023"
+    2300054: "Pole \xD8 4 cm_024"
+    2300056: "Pole \xD8 5 cm_001"
+    2300058: "Pole \xD8 5 cm_002"
+    2300060: "Pole \xD8 5 cm_003"
+    2300062: "Pole \xD8 5 cm_004"
+    2300064: "Pole \xD8 5 cm_005"
+    2300066: "Pole \xD8 5 cm_006"
+    2300068: "Pole \xD8 5 cm_007"
+    2300070: "Pole \xD8 5 cm_008"
+    2300072: "Pole \xD8 5 cm_009"
+    2300074: "Pole \xD8 5 cm_010"
+    2300076: "Pole \xD8 5 cm_011"
+    2300078: "Pole \xD8 5 cm_012"
+    2300080: "Pole \xD8 5 cm_013"
+    2300082: Tent Cover_001
+    3300000: Alas Kaki_001
+    3300002: Alas Kaki_002
+    3300004: Alas Kaki_003
+    3300006: Alas Kaki_004
+    3300008: "Pole \xD8 4 cm_001"
+    3300010: "Pole \xD8 4 cm_002"
+    3300012: "Pole \xD8 4 cm_003"
+    3300014: "Pole \xD8 4 cm_004"
+    3300016: "Pole \xD8 4 cm_005"
+    3300018: "Pole \xD8 4 cm_006"
+    3300020: "Pole \xD8 4 cm_007"
+    3300022: "Pole \xD8 4 cm_008"
+    3300024: "Pole \xD8 4 cm_009"
+    3300026: "Pole \xD8 4 cm_010"
+    3300028: "Pole \xD8 4 cm_011"
+    3300030: "Pole \xD8 4 cm_012"
+    3300032: "Pole \xD8 4 cm_013"
+    3300034: "Pole \xD8 4 cm_014"
+    3300036: "Pole \xD8 4 cm_015"
+    3300038: "Pole \xD8 4 cm_016"
+    3300040: "Pole \xD8 4 cm_017"
+    3300042: "Pole \xD8 4 cm_018"
+    3300044: "Pole \xD8 4 cm_019"
+    3300046: "Pole \xD8 4 cm_020"
+    3300048: "Pole \xD8 4 cm_021"
+    3300050: "Pole \xD8 4 cm_022"
+    3300052: "Pole \xD8 4 cm_023"
+    3300054: "Pole \xD8 4 cm_024"
+    3300056: "Pole \xD8 5 cm_001"
+    3300058: "Pole \xD8 5 cm_002"
+    3300060: "Pole \xD8 5 cm_003"
+    3300062: "Pole \xD8 5 cm_004"
+    3300064: "Pole \xD8 5 cm_005"
+    3300066: "Pole \xD8 5 cm_006"
+    3300068: "Pole \xD8 5 cm_007"
+    3300070: "Pole \xD8 5 cm_008"
+    3300072: "Pole \xD8 5 cm_009"
+    3300074: "Pole \xD8 5 cm_010"
+    3300076: "Pole \xD8 5 cm_011"
+    3300078: "Pole \xD8 5 cm_012"
+    3300080: "Pole \xD8 5 cm_013"
+    3300082: Tent Cover_001
+    4300000: Tent Cover_001
+    4300002: Alas Kaki_004
+    4300004: "Pole \xD8 4 cm_024"
+    4300006: "Pole \xD8 4 cm_023"
+    4300008: "Pole \xD8 4 cm_022"
+    4300010: "Pole \xD8 4 cm_021"
+    4300012: "Pole \xD8 4 cm_020"
+    4300014: "Pole \xD8 5 cm_013"
+    4300016: "Pole \xD8 4 cm_019"
+    4300018: Alas Kaki_003
+    4300020: "Pole \xD8 4 cm_018"
+    4300022: "Pole \xD8 4 cm_017"
+    4300024: "Pole \xD8 4 cm_016"
+    4300026: "Pole \xD8 4 cm_015"
+    4300028: "Pole \xD8 4 cm_014"
+    4300030: "Pole \xD8 5 cm_012"
+    4300032: "Pole \xD8 4 cm_013"
+    4300034: Alas Kaki_002
+    4300036: "Pole \xD8 4 cm_012"
+    4300038: "Pole \xD8 4 cm_011"
+    4300040: "Pole \xD8 4 cm_010"
+    4300042: "Pole \xD8 4 cm_009"
+    4300044: "Pole \xD8 4 cm_008"
+    4300046: "Pole \xD8 5 cm_011"
+    4300048: "Pole \xD8 4 cm_007"
+    4300050: Alas Kaki_001
+    4300052: "Pole \xD8 4 cm_006"
+    4300054: "Pole \xD8 4 cm_005"
+    4300056: "Pole \xD8 4 cm_004"
+    4300058: "Pole \xD8 4 cm_003"
+    4300060: "Pole \xD8 4 cm_002"
+    4300062: "Pole \xD8 5 cm_010"
+    4300064: "Pole \xD8 4 cm_001"
+    4300066: "Pole \xD8 5 cm_009"
+    4300068: "Pole \xD8 5 cm_008"
+    4300070: "Pole \xD8 5 cm_007"
+    4300072: "Pole \xD8 5 cm_006"
+    4300074: "Pole \xD8 5 cm_005"
+    4300076: "Pole \xD8 5 cm_004"
+    4300078: "Pole \xD8 5 cm_003"
+    4300080: "Pole \xD8 5 cm_002"
+    4300082: "Pole \xD8 5 cm_001"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

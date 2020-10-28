@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d6ffb1c63574be8499e2c52f36c29d16
+timeCreated: 1491836383
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _head: {fileID: 21300000, guid: 8e8e2a1aac0b7b947be7d0e6b889dc9c, type: 3}
+  - _destructionFront: {fileID: 21300000, guid: ce0333f4a19792940bbb9a155bdab9bc,
+      type: 3}
+  - _destructionBack: {fileID: 21300000, guid: 8829599faf92f4b4f9f29683351be3ac, type: 3}
+  - _divideLine: {fileID: 21300000, guid: 9a949cda337d3d5478c46ffdb70943b9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
